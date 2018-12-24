@@ -1,4 +1,4 @@
-# Courseradatascienceclass3project
+# Coursera data science class 3 project
 Coursera Data Science specialisation course 3 project (Getting and cleaning data)
 
 1. Project task

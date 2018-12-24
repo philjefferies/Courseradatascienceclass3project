@@ -26,10 +26,7 @@ Good luck!
 
 2. Repo contents and process
 
-[A] Install the following packages:
-
-reshape2
-RCurl
+[A] Install the following packages: reshape2, RCurl
 
 [B] Run script (analysis.R)
 This writes data to ./data directory and generates (or replaces) Codebook.md
